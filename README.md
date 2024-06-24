@@ -1,0 +1,2 @@
+# Enums.
+Type enum.
